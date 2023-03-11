@@ -6,4 +6,3 @@ https://questmedia.github.io/
 # To do
 - Acknowledgements/copyright page
 - Feed page
-  - "What is this?" section
