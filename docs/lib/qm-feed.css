@@ -1,4 +1,4 @@
-.post {
+.qm-post {
   display: flex;
   align-items: flex-start;
   margin: 10px;
@@ -7,22 +7,22 @@
   border-radius: 5px;
 }
 
-.post img {
+.qm-post img {
   width: 50px;
   height: 50px;
   border-radius: 50%;
   margin-right: 10px;
 }
 
-.post .content {
+.qm-post .qm-content {
   flex: 1;
 }
 
-.post .name {
+.qm-post .qm-name {
   font-weight: bold;
   margin: 0;
 }
 
-.post .text {
+.qm-post .qm-text {
   margin: 5px 0 0 0;
 }
