@@ -7,4 +7,3 @@ https://questmedia.github.io/
 - Acknowledgements/copyright page
 - Feed page
   - "What is this?" section
-- Update all pages besides Feed to use our new Font Awesome configuration
