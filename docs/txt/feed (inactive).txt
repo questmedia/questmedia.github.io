@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Quest Media</title>
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="lib/w3.css">
+        <link rel="stylesheet" href="lib/w3-colors-metro.css">
+        <link rel="stylesheet" href="lib/qm-post.css">
+        <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+        <script src="lib/w3.js"></script>
+        <script src="https://kit.fontawesome.com/614d54793e.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div class="w3-container w3-black w3-center w3-top" id="header">
+            <div class="w3-container w3-center w3-red" id="alert">
+                <p><i class="fa fa-exclamation-triangle"></i> We are currently in the process of updating our website. Links may lead to 404 errors and other functionality may be temporarily unavailable until this is completed.</p>
+            </div>
+            <a href="https://questmedia.github.io"><img src="images/QuestMedia2023.png" alt="Quest Media logo." style="width:50px;height:50px;" class="w3-animate-zoom"></a>
+        </div>
+        <div class="w3-container w3-center w3-metro-darken" style="min-height: 100vh;" id="main">
+            <br><br><br><br><h1>Official Feed</h1>
+            <div class="w3-container w3-center">
+                <h2>What is this?</h2>
+                <p>We've created a custom website that overcomes the limitations of conventional text platforms. Here, we can publish both casual posts and serious statements without being hindered by character limits, spam, abusive language, privacy concerns, or misinformation/fake posts.</p>
+                <p>Since our website is open source, all posts made on this page can be manually verified through <a href="https://github.com/questmedia/questmedia.github.io/commits/main" target="_blank">GitHub</a> to ensure that they are real and valid.</p>
+                <p>In general, we encourage consumers to exercise critical thinking and reasoning skills when considering whether or not information on the internet is genuine. Remember, just because a screenshot looks incriminating doesn't mean it's real!</p>
+            </div>
+            <div class="w3-card-4 w3-black w3-center w3-round qm-post" style="width:37.5%; margin:auto;" id="1">
+              <img src="images/Q4C2023.png" style="width:48px;height:48px;" class="w3-circle" alt="QuestForContent logo.">
+              <p class="qm-name">Quest <i class="fa-solid fa-circle-check"></i><span class="w3-opacity"> 3/11/23</span></p>
+              <p class="qm-text">First.</p>
+              <p><a href="https://github.com/questmedia/questmedia.github.io/commits/main" target="_blank">Verify the authenticity of this statement</a></p>
+            </div>
+        </div>
+        <div class="w3-container w3-center w3-black" id="footer">
+            <p class="w3-opacity">All trademarks are property of their respective owners in the United States and other countries.<br><a href="acknowledgements.html">Acknowledgements</a> | <a href="privacypolicy.html">Privacy Policy</a></p>
+        </div>
+    </body>
+</html>
